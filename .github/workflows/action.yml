@@ -11,5 +11,8 @@ jobs:
         with:
           pokemon: ${{ github.event.head_commit.message }}
       # Use the output from the `hello` step
-      - name: Get the output time
-        run: echo "The time was ${{ steps.hello.outputs.pokemon }}"
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: Readme.md
+          path: /app/Readme.md
