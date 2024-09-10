@@ -11,7 +11,7 @@ jobs:
         with:
           pokemon: ${{ github.event.head_commit.message }}
       - name: Update README.md
-      run: |
+        run: |
         if [[ "$(git status --porcelain)" != "" ]]; then
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
