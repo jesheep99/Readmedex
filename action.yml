@@ -10,4 +10,3 @@ runs:
   image: 'Dockerfile'
   args:
     - ${{ inputs.pokemon }}
-#comentario innesesario

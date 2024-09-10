@@ -21,7 +21,6 @@ text_to_print = f"""![pok]({sprite})
 ## alto: {pokemon.height}
 """
 
-
 filename = "Readme.md"
 
 print_text_to_file(text_to_print, filename)
