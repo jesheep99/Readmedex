@@ -1,3 +1,3 @@
-![pok](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png)
-## nombre : pikachu
-## alto: 4
+![pok](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png)
+## nombre : jigglypuff
+## alto: 5
