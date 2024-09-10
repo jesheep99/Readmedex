@@ -5,9 +5,6 @@ inputs:
     description: 'pokemon from commit'
     required: true
     default: 'pikachu'
-outputs:
-  pokemon: # id of output
-    description: 'The time we greeted you'
 runs:
   using: 'docker'
   image: 'Dockerfile'
