@@ -1,0 +1,36 @@
+# Archivos compilados, caché y objetos
+__pycache__/
+*.py[co]
+*$py.class
+.pytest_cache/
+.coverage
+
+# Archivos de distribución y construcción
+.eggs/
+dist/
+build/
+develop-eggs/
+eggs/
+lib/
+lib64/
+*.egg-info/
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+include/
+bin/
+pyvenv.cfg
+
+# Configuraciones locales
+local.py
+*.ini$
+*.env
+
+# Archivos de prueba
+tests/
+
+# Archivos de IDE
+.idea/
+.vscode/
