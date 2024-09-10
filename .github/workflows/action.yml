@@ -7,7 +7,7 @@ jobs:
     steps:
       - name: Hello world action step
         id: hello
-        uses: jesheep99/Readmedex@v1.03
+        uses: jesheep99/Readmedex@v1.04
         with:
           pokemon: ${{ github.event.head_commit.message }}
       # Use the output from the `hello` step
