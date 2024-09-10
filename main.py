@@ -13,13 +13,6 @@ print(sprite)
 
 
 def print_text_to_file(text, filename):
-    """Prints the given text to a file.
-
-    Args:
-        text (str): The text to be printed.
-        filename (str): The name of the file to write to.
-    """
-
     try:
         with open(filename, 'w') as file:
             file.write(text)
