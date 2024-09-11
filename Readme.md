@@ -1,3 +1,3 @@
-![pok](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/378.png)
-## nombre : regice
-## alto: 18
+![pok](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png)
+## nombre : charizard
+## alto: 17
