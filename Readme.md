@@ -1,3 +1,3 @@
-![pok](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png)
-## nombre : gengar
-## alto: 15
+![pok](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png)
+## nombre : pikachu
+## alto: 4
