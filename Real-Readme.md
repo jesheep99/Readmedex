@@ -10,3 +10,5 @@ variable de entrada para el script python.
 la variable de entrada hacia el script python provienes
 del worflow del mismo repositorio y ingresa desde el entrypoint.sh ($1)
 de el dockerfile
+
+
