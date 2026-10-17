@@ -1,14 +1,15 @@
-FROM python:3.11.10-alpine3.20
+FROM python:3.10-slim
 
-RUN mkdir /app 
+# Directorio de trabajo dentro del contenedor
+WORKDIR /app
 
-COPY requirements.txt /app/requirements.txt
+# Copiar el archivo de requerimientos e instalar dependencias
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
 
-COPY main.py /app/main.py
+# Copiar todo el código fuente y la plantilla (incluyendo main.py y Real-Readme.md)
+COPY . /app
 
-#RUN pwd
-RUN cd /app && pip install -r requirements.txt
-
-COPY entrypoint.sh /entrypoint.sh
-
-ENTRYPOINT ["/entrypoint.sh"]
+# Dar permisos de ejecución al entrypoint y configurarlo
+RUN chmod +x entrypoint.sh
+ENTRYPOINT ["/app/entrypoint.sh"]
