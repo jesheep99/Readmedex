@@ -33,6 +33,7 @@ def generate_readme():
         print(f"📁 Contenido actual de {base_dir}: {os.listdir(base_dir)}")
         sys.exit(1)
 
+
     try:
         with open(template_file, 'r', encoding='utf-8') as f:
             template_content = f.read()
