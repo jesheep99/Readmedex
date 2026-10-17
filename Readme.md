@@ -1,3 +1,3 @@
-![pok](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png)
-## nombre : charizard
-## alto: 17
+![pok](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/807.png)
+## nombre : zeraora
+## alto: 15
