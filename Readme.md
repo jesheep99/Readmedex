@@ -1,17 +1,23 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" alt="gengar" width="150" height="150"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/34.png" alt="nidoking" width="160" height="160"/>
 </p>
 
-## 🎮 Pokémon Activo del Perfil
-* **Nombre:** `Gengar`
-* **Altura:** `15`
+## 🎮 Pokémon Activo del Perfil ✨ [Shiny] ✨
+* **Nombre:** `Nidoking`
+* **Tipo(s):** `Poison / Ground`
+* **Altura:** `1.4 m` | **Peso:** `62.0 kg`
+
+### 📊 Estadísticas Base
+* **HP:** `[█████░░░░░]` `81`
+* **Ataque:** `[██████░░░░]` `102`
+* **Defensa:** `[█████░░░░░]` `77`
 
 
 ---
 
 ## ⚙️ Cómo funciona Readmedex
 
-`Readmedex` es una **GitHub Action** de uso ludico contenedorizada en Docker que obtiene datos de la PokéAPI de forma dinámica y actualiza la documentación de tu repositorio en cada ejecución tomando un commit como dato de entrada.
+`Readmedex` es una **GitHub Action** contenedorizada en Docker que obtiene datos de la PokéAPI de forma dinámica y actualiza la documentación de tu repositorio en cada ejecución.
 
 ### 🏗️ Arquitectura y Flujo de Ejecución
 
