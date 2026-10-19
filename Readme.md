@@ -1,17 +1,17 @@
 
-<h2 align="center"> 🎮 Pokémon Activo del Perfil ✨ [Shiny] ✨</h2>
-<h1 align="center"> `Pikachu`</h1>
+<h2 align="center"> 🎮 Pokémon Activo del Perfil</h2>
+<h1 align="center"> Ditto </h1>
     
-<p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/25.png" alt="pikachu" width="160" height="160"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png" alt="ditto" width="160" height="160"/></p>
 
-* **Tipo(s):** `Electric`
-* **Altura:** `0.4 m` | **Peso:** `6.0 kg`
+* **Tipo(s):** `Normal`
+* **Altura:** `0.3 m` | **Peso:** `4.0 kg`
 
 
 ### 📊 Estadísticas Base
-* **HP:** `[██░░░░░░░░]` `35`
-* **Ataque:** `[███░░░░░░░]` `55`
-* **Defensa:** `[██░░░░░░░░]` `40`
+* **HP:** `[███░░░░░░░]` `48`
+* **Ataque:** `[███░░░░░░░]` `48`
+* **Defensa:** `[███░░░░░░░]` `48`
 
 
 ---
