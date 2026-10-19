@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/222.png" alt="corsola" width="150" height="150"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" alt="gengar" width="150" height="150"/>
 </p>
 
 ## 🎮 Pokémon Activo del Perfil
-* **Nombre:** `Corsola`
-* **Altura:** `6`
+* **Nombre:** `Gengar`
+* **Altura:** `15`
 
 
 ---
@@ -52,14 +52,7 @@
 
 - Ejecución: entrypoint.sh ejecuta main.py dentro de un entorno aislado de Python y Docker.
 
-- Procesamiento de Plantilla: main.py lee Real-Readme.md, conserva todo el contenido estático e inyecta el Markdown dinámico del Pokémon justo en el marcador <p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/222.png" alt="corsola" width="150" height="150"/>
-</p>
-
-## 🎮 Pokémon Activo del Perfil
-* **Nombre:** `Corsola`
-* **Altura:** `6`
-.
+- Procesamiento de Plantilla: main.py lee Real-Readme.md, conserva todo el contenido estático e inyecta el Markdown dinámico del Pokémon justo en el marcador (<!--POKEMON_SECTION -->).
 
 - Salida: Se genera y guarda el archivo Readme.md final de forma automática.
 
