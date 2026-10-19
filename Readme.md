@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png" alt="sceptile" width="150" height="150"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/222.png" alt="corsola" width="150" height="150"/>
 </p>
 
 ## 🎮 Pokémon Activo del Perfil
-* **Nombre:** `Sceptile`
-* **Altura:** `17`
+* **Nombre:** `Corsola`
+* **Altura:** `6`
 
 
 ---
@@ -36,14 +36,7 @@
                                                  v
   +-------------------+        +-----------------------------------+
   |  Real-Readme.md   | -----> | Lee la plantilla y reemplaza el   |
-  | (Plantilla fija)  |        | marcador <p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png" alt="sceptile" width="150" height="150"/>
-</p>
-
-## 🎮 Pokémon Activo del Perfil
-* **Nombre:** `Sceptile`
-* **Altura:** `17`
- |
+  | (Plantilla fija)  |        | marcador (<!--POKEMON_SECTION -->))|
   +-------------------+        +-----------------+-----------------+
                                                  |
                                                  v
@@ -60,12 +53,12 @@
 - Ejecución: entrypoint.sh ejecuta main.py dentro de un entorno aislado de Python y Docker.
 
 - Procesamiento de Plantilla: main.py lee Real-Readme.md, conserva todo el contenido estático e inyecta el Markdown dinámico del Pokémon justo en el marcador <p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png" alt="sceptile" width="150" height="150"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/222.png" alt="corsola" width="150" height="150"/>
 </p>
 
 ## 🎮 Pokémon Activo del Perfil
-* **Nombre:** `Sceptile`
-* **Altura:** `17`
+* **Nombre:** `Corsola`
+* **Altura:** `6`
 .
 
 - Salida: Se genera y guarda el archivo Readme.md final de forma automática.
