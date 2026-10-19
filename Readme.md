@@ -1,19 +1,17 @@
 
-   <p align="center"> ## 🎮 Pokémon Activo del Perfil</p>
-<p align="center"> ##`Nidoqueen`</p>
+<h2 align="center"> 🎮 Pokémon Activo del Perfil ✨ [Shiny] ✨</h2>
+<h1 align="center"> `Pikachu`</h1>
     
-    <p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png" alt="nidoqueen" width="160" height="160"/>
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/25.png" alt="pikachu" width="160" height="160"/></p>
 
-* **Tipo(s):** `Poison / Ground`
-* **Altura:** `1.3 m` | **Peso:** `60.0 kg`
+* **Tipo(s):** `Electric`
+* **Altura:** `0.4 m` | **Peso:** `6.0 kg`
 
 
 ### 📊 Estadísticas Base
-* **HP:** `[██████░░░░]` `90`
-* **Ataque:** `[██████░░░░]` `92`
-* **Defensa:** `[█████░░░░░]` `87`
+* **HP:** `[██░░░░░░░░]` `35`
+* **Ataque:** `[███░░░░░░░]` `55`
+* **Defensa:** `[██░░░░░░░░]` `40`
 
 
 ---
