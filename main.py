@@ -43,12 +43,10 @@ def generate_readme():
 
     # 4. Construir el bloque dinámico mejorado con las tarjetas y estadísticas
     pokemon_markdown = f"""
-   <p align="center"> ## 🎮 Pokémon Activo del Perfil{shiny_label}</p>
-<p align="center"> ##`{pokemon.name.capitalize()}`</p>
+<h2 align="center"> 🎮 Pokémon Activo del Perfil{shiny_label}</h2>
+<h1 align="center"> `{pokemon.name.capitalize()}`</h1>
     
-    <p align="center">
-  <img src="{sprite}" alt="{pokemon.name}" width="160" height="160"/>
-</p>
+<p align="center"><img src="{sprite}" alt="{pokemon.name}" width="160" height="160"/></p>
 
 * **Tipo(s):** `{types_str}`
 * **Altura:** `{pokemon.height / 10} m` | **Peso:** `{pokemon.weight / 10} kg`
