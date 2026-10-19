@@ -1,16 +1,19 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/34.png" alt="nidoking" width="160" height="160"/>
+
+   <p align="center"> ## 🎮 Pokémon Activo del Perfil</p>
+<p align="center"> ##`Nidoqueen`</p>
+    
+    <p align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png" alt="nidoqueen" width="160" height="160"/>
 </p>
 
-## 🎮 Pokémon Activo del Perfil ✨ [Shiny] ✨
-* **Nombre:** `Nidoking`
 * **Tipo(s):** `Poison / Ground`
-* **Altura:** `1.4 m` | **Peso:** `62.0 kg`
+* **Altura:** `1.3 m` | **Peso:** `60.0 kg`
+
 
 ### 📊 Estadísticas Base
-* **HP:** `[█████░░░░░]` `81`
-* **Ataque:** `[██████░░░░]` `102`
-* **Defensa:** `[█████░░░░░]` `77`
+* **HP:** `[██████░░░░]` `90`
+* **Ataque:** `[██████░░░░]` `92`
+* **Defensa:** `[█████░░░░░]` `87`
 
 
 ---
