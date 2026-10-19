@@ -58,9 +58,8 @@ def generate_readme():
 """
 
     # Rutas y constantes
-    base_dir = os.path.dirname(os.path.abspath(__file__))
-    template_file = os.path.join(base_dir, "Real-Readme.md")
-    output_file = os.path.join(base_dir, "Readme.md")
+    template_file = "Real-Readme.md"
+    output_file = "Readme.md"
     marker = "<!-- POKEMON_SECTION -->"
 
     if not os.path.exists(template_file):
@@ -89,4 +88,3 @@ def generate_readme():
 
 if __name__ == "__main__":
     generate_readme()
-    
