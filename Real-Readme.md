@@ -45,7 +45,7 @@
 
 - Ejecución: entrypoint.sh ejecuta main.py dentro de un entorno aislado de Python y Docker.
 
-- Procesamiento de Plantilla: main.py lee Real-Readme.md, conserva todo el contenido estático e inyecta el Markdown dinámico del Pokémon justo en el marcador <!-- POKEMON_SECTION -->.
+- Procesamiento de Plantilla: main.py lee Real-Readme.md, conserva todo el contenido estático e inyecta el Markdown dinámico del Pokémon justo en el marcador (<!--POKEMON_SECTION -->).
 
 - Salida: Se genera y guarda el archivo Readme.md final de forma automática.
 
