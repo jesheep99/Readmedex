@@ -29,7 +29,7 @@
                                                  v
   +-------------------+        +-----------------------------------+
   |  Real-Readme.md   | -----> | Lee la plantilla y reemplaza el   |
-  | (Plantilla fija)  |        | marcador <!-- POKEMON_SECTION --> |
+  | (Plantilla fija)  |        | marcador (<!--POKEMON_SECTION -->))|
   +-------------------+        +-----------------+-----------------+
                                                  |
                                                  v
