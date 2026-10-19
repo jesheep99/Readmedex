@@ -11,7 +11,7 @@
 
 ## ⚙️ Cómo funciona Readmedex
 
-`Readmedex` es una **GitHub Action** contenedorizada en Docker que obtiene datos de la PokéAPI de forma dinámica y actualiza la documentación de tu repositorio en cada ejecución.
+`Readmedex` es una **GitHub Action** de uso ludico contenedorizada en Docker que obtiene datos de la PokéAPI de forma dinámica y actualiza la documentación de tu repositorio en cada ejecución tomando un commit como dato de entrada.
 
 ### 🏗️ Arquitectura y Flujo de Ejecución
 
