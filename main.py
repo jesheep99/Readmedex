@@ -46,7 +46,7 @@ def generate_readme():
 <h2 align="center"> 🎮 Pokémon Activo del Perfil{shiny_label}</h2>
 <h1 align="center"> {pokemon.name.capitalize()} </h1>
     
-<p align="center"><img src="{sprite}" alt="{pokemon.name}" width="160" height="160"/></p>
+<p align="center"><img src="{sprite}" alt="{pokemon.name}" width="220" height="220"/></p>
 
 * **Tipo(s):** `{types_str}`
 * **Altura:** `{pokemon.height / 10} m` | **Peso:** `{pokemon.weight / 10} kg`
