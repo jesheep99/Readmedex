@@ -1,17 +1,17 @@
 
-<h2 align="center"> 🎮 Pokémon Activo del Perfil</h2>
-<h1 align="center"> Ditto </h1>
+<h2 align="center"> 🎮 Pokémon Activo del Perfil ✨ [Shiny] ✨</h2>
+<h1 align="center"> Cacturne </h1>
     
-<p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png" alt="ditto" width="160" height="160"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/332.png" alt="cacturne" width="220" height="220"/></p>
 
-* **Tipo(s):** `Normal`
-* **Altura:** `0.3 m` | **Peso:** `4.0 kg`
+* **Tipo(s):** `Grass / Dark`
+* **Altura:** `1.3 m` | **Peso:** `77.4 kg`
 
 
 ### 📊 Estadísticas Base
-* **HP:** `[███░░░░░░░]` `48`
-* **Ataque:** `[███░░░░░░░]` `48`
-* **Defensa:** `[███░░░░░░░]` `48`
+* **HP:** `[████░░░░░░]` `70`
+* **Ataque:** `[███████░░░]` `115`
+* **Defensa:** `[████░░░░░░]` `60`
 
 
 ---
