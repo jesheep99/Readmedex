@@ -1,17 +1,17 @@
 
-<h2 align="center"> 🎮 Pokémon Activo del Perfil ✨ [Shiny] ✨</h2>
-<h1 align="center"> Cacturne </h1>
+<h2 align="center"> 🎮 Pokémon Activo del Perfil</h2>
+<h1 align="center"> Skitty </h1>
     
-<p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/332.png" alt="cacturne" width="220" height="220"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/300.png" alt="skitty" width="220" height="220"/></p>
 
-* **Tipo(s):** `Grass / Dark`
-* **Altura:** `1.3 m` | **Peso:** `77.4 kg`
+* **Tipo(s):** `Normal`
+* **Altura:** `0.6 m` | **Peso:** `11.0 kg`
 
 
 ### 📊 Estadísticas Base
-* **HP:** `[████░░░░░░]` `70`
-* **Ataque:** `[███████░░░]` `115`
-* **Defensa:** `[████░░░░░░]` `60`
+* **HP:** `[███░░░░░░░]` `50`
+* **Ataque:** `[███░░░░░░░]` `45`
+* **Defensa:** `[███░░░░░░░]` `45`
 
 
 ---
